@@ -1,5 +1,5 @@
-- 👋 Hi, I’m The Chosen One
-- 👀 I’m interested in Web development and Artificial Intelligence 
-- 🌱 Professional 3D Modeler, VRChat Avatar Creator and Game Modder
-- 🌱 I’m also an expert in HTML, CSS, JavaScript and Python
-- 💞️ I’m looking to collaborate on Web-Based application e.t.c
+- 👋 Hi, I’m The Chosen One!
+- 🎨 I’m a professional 3D modeler, character designer, and VRChat avatar creator, specializing in creating high-quality models for games, animations, and virtual experiences.
+- 🎮 Skilled in game modding with a strong focus on character customization and enhancements.
+- 💻 I’m also an expert in HTML, CSS, JavaScript, and Python, with a passion for web development and artificial intelligence.
+- 🤝 Open to collaborations on web-based applications and other creative projects blending technology and art.
