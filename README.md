@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @Meyor0Code
+- 👋 Hi, I’m The Chosen One
 - 👀 I’m interested in Web development and Artificial Intelligence 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python 
+- 🌱 Professional 3D Modeler, VRChat Avatar Creator and Game Modder
+- 🌱 I’m also an expert in HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on Web-Based application e.t.c
-- 📫 How to reach me via Facebook, Twitter, Instagram, LinkedIn and whatsapp
-- 📫 Facebook @ Israel Ade Mayowa
-- 📫 Twitter @Tommy_Meyor
-- 📫 LinkedIn @Israel Adediran
-- 📫 Whatsapp 09161609904
-- (https://holopin.me/meyor0code)](https://holopin.io/@meyor0code)
-<!---
-Meyor0Code/Meyor0Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
